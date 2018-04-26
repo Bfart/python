@@ -9,6 +9,8 @@ unset SSH_ASKPASS
 
 create dev branch
 
+#在github客户端修改，用 git pull origin master 测试是否能更新本地master
+
 
 
 
